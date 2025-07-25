@@ -67,11 +67,11 @@ Built with **React**, **Vite**, **TailwindCSS**, and powered by a modern backend
 Deployed on **Netlify** with a custom domain.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanilovTuring-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danilo-gonzalez-64ab552a8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Danilo_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-gonzalez-64ab552a8)  
 [![GitHub](https://img.shields.io/badge/GitHub-DanilovTuring-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanilovTuring)
 
 ---
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/xxxxx@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilogonzalezx77@gmail.com)
+[![Email](https://img.shields.io/badge/danilogonzalezx77@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilogonzalezx77@gmail.com)
