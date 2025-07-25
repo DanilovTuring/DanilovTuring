@@ -1,5 +1,48 @@
-# Welcome, I'm Danilo Gonzalez
+# Welcome, I'm Danilo Gonzalez 🧬
 
+## 🔧 Tech Stack
+
+<div align="center">
+  <!-- Fila 1 -->
+  <img src="https://skillicons.dev/icons?i=java" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Fila 2 -->
+  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Fila 3 -->
+  <img src="https://skillicons.dev/icons?i=linux" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=md" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" />
+</div>
+
+
+
+
+---
 ## 🧠 About Me
 
 I’m passionate about crafting **secure, scalable, and clean software solutions** — from backend logic to frontend interface, deployment and beyond.
@@ -16,14 +59,12 @@ I’m passionate about crafting **secure, scalable, and clean software solutions
 
 ---
 
-## 🔧 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,js,ts,react,vite,tailwind,html,css" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,vscode,linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" />
-  <img src="https://skillicons.dev/icons?i=md,bash,powershell" height="40" />
-</div>
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DanilovTuring&theme=tokyonight&hide_border=true&card_width=450&exclude_days=Sun%2CSat" />
+</p>
 
 ---
 
@@ -40,13 +81,7 @@ I’m passionate about crafting **secure, scalable, and clean software solutions
 
 ---
 
-## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DanilovTuring&theme=tokyonight&hide_border=true&card_width=450&exclude_days=Sun%2CSat" />
-</p>
-
----
 
 ## 📚 Latest Technical Highlights
 
@@ -65,7 +100,6 @@ I’m passionate about crafting **secure, scalable, and clean software solutions
 **CryptoState** is a professional-grade cryptocurrency dashboard that delivers real-time price tracking, secure purchase flows, news integration, and visual analytics.  
 Built with **React**, **Vite**, **TailwindCSS**, and powered by a modern backend using **Spring Boot**, **JWT authentication**, and **PostgreSQL**.  
 Deployed on **Netlify** with a custom domain.
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Danilo_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-gonzalez-64ab552a8)  
 [![GitHub](https://img.shields.io/badge/GitHub-DanilovTuring-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanilovTuring)
